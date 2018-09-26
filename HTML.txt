@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>Hotel Transylvania</title>
-</head>
-<body>
-<h5><marquee>Hotty hot summer sale...!50% off on every rooms!!!...Hurry</marquee><h5>
-</body>
-</html>
